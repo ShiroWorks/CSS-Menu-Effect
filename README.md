@@ -7,3 +7,5 @@ A menu with a css-only marquee hover effect.
 - Images from [Pexels](https://www.pexels.com/search/people/)
 - Font used: [Sofia Pro](https://fonts.adobe.com/fonts/sofia)
 - The grainy [background noise animation](https://css-tricks.com/snippets/css/animated-grainy-texture/) is by Geoff Graham
+
+[Live version](https://css-menu-effect.netlify.com/)
